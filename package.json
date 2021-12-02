@@ -9,7 +9,7 @@
   "private": false,
   "scripts": {
     "heroku-prebuild": "npm install --dev",
-    "start": "webpack-dev-server --mode development --open",
+    "start": "./node_modules/webpack-dev-server/bin/webpack-dev-server.js --mode development --open",
     "build": "webpack --mode production"
   },
   "dependencies": {
