@@ -8,8 +8,7 @@
   "license": "",
   "private": false,
   "scripts": {
-    "start": "npm run serve",
-    "serve": "webpack-dev-server --mode production --open",
+    "start": "webpack-dev-server --mode production",
     "build": "webpack --mode production"
   },
   "dependencies": {
