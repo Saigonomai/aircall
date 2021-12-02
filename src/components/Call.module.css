@@ -1,0 +1,38 @@
+.call-section {
+  margin-bottom: 25px;
+}
+
+.date {
+  text-align: center;
+  margin: 15px 0px 0px;
+}
+
+.hr {
+  margin: 5px 10px;
+}
+
+.call-box {
+  margin: 0px 10px 15px;
+  border: 1px black solid;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px 0px 25px;
+  border-radius: 15px;
+}
+
+.call-number {
+  font-weight: bold;
+  font-size: 16px;
+  margin: 15px 0px 5px;
+}
+
+.call-desc {
+  font-size: 12px;
+  margin: 5px 0px 10px;
+}
+
+.call-time {
+  margin: 12px 0px 12px;
+  padding: 10px 10px 10px;
+  border-left: 1px solid black;
+}

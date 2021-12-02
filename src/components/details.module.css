@@ -1,0 +1,42 @@
+.details-section{
+  margin: 20px 20px 0px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.details-header {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom:5px;
+}
+
+.details {
+  margin: 10px 0 10px;
+  font-size: 16px;
+}
+
+.archive-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background: red;
+  color:white;
+  font-size: 16px;
+  width: 80%;
+  padding: 10px 12px;
+  margin-left: 10%;
+  border-radius: 15px;
+}
+
+.return-button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 16px;
+  width: 80%;
+  padding: 10px 12px;
+  margin-left: 10%;
+  margin-top: 10px;
+  border-radius: 15px;
+}
