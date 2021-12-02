@@ -30,5 +30,9 @@ module.exports = {
       template: "./public/index.html",
       filename: "./index.html"
     })
-  ]
+  ],
+  performance: {
+    maxEntrypointSize: 512000,
+    maxAssetSize: 512000
+}
 };
