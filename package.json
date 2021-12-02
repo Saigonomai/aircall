@@ -8,6 +8,7 @@
   "license": "",
   "private": false,
   "scripts": {
+    "heroku-prebuild": "npm install --dev",
     "start": "webpack serve --open",
     "build": "webpack --mode production"
   },
