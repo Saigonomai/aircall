@@ -8,8 +8,8 @@
   "license": "",
   "private": false,
   "scripts": {
-    "start": "webpack-dev-server --config=webpack.config.js --open",
-    "build": "webpack --config=webpack.config.js"
+    "start": "webpack-dev-server --mode production --open",
+    "build": "webpack --mode production"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.2",
